@@ -2,14 +2,12 @@
 
 ## Zilliqa Wallets
 
-* [Moonlet]()
-* [Zilpay]()
-* [Atomic]()
-* [Zillet]()
-* [Zengo]()
-* [Trust Wallet]()
-* [Torus]()
-* [Magic]()
+* [Moonlet](https://moonlet.io/)
+* [Zilpay](https://zilpay.xyz/)
+* [Atomic](https://atomicwallet.io/)
+* [Zillet](https://zillet.io/)
+* [Trust Wallet](https://trustwallet.com/)
+* [Magic](https://dev.zilliqa.com/docs/dev/dev-keys-magic)
 
 ## Fiat To Crypto Services
 
@@ -28,16 +26,16 @@
 * [Zilliqa API](https://dev.zilliqa.com/docs/apis/api-introduction)
 
 ## Educational Resources
-* [Zilliqa Videos]()
-* [Learn Scilla Interactive Tutorial]()
-* [Ivan On Tech]()
-* [Hive Mind]()
-* [Scilla Documentation]()
-* [Developer Portal]()
+* [Zilliqa Videos](https://www.youtube.com/playlist?list=PLhAZ7IjBUYmvQGQmEGRHNgBQRu-ZNH_J6)
+* [Learn Scilla Interactive Tutorial](https://learnscilla.com/)
+* [Ivan On Tech](https://www.youtube.com/playlist?list=PLo0ddf4DBUYs4TEK1c2NMx80i-4FIWvlx)
+* [Hive Mind](https://www.youtube.com/playlist?list=PLhAZ7IjBUYmvBnXVvXNXKnXQ1oa3n8ZRc)
+* [Scilla Documentation](https://scilla.readthedocs.io/en/latest/)
+* [Developer Portal](https://dev.zilliqa.com/)
 
 ## Developer Groups
-* [Telegram Group]()
-* [Discord Group]()
+* [Telegram Group](https://t.me/ZilliqaDevs)
+* [Discord Group](https://discord.com/invite/XMRE9tt)
 
 ## Bounties and Grants
 * [Zillacracy](https://zillacracy.com/)
@@ -56,6 +54,6 @@
 * [SocialPay](https://social.zilliqa.com/)
 
 ## Commercial Applications & Partners
-* [Aqilliz]()
-* [HG Exchange]()
-* [Ten 31]()
+* [Aqilliz](https://aqilliz.com/)
+* [HG Exchange](https://hg.exchange/)
+* [Ten 31](https://www.ten31.com/)
