@@ -1,4 +1,10 @@
-# zilhub
+# Zilhub
+
+List of educational resources, developer tools and projects in the Zilliqa ecosystem - this is a non-exhaustive list.
+
+# Contribute
+
+Submit a pull request for any additions or fixes to the current list. For new additions, remember to add a brief description describing the list item.
 
 ## Zilliqa Wallets
 
