@@ -8,18 +8,20 @@ Submit a pull request for any additions or fixes to the current list. For new ad
 
 ## Zilliqa Wallets
 
-* [Moonlet](https://moonlet.io/)
-* [Zilpay](https://zilpay.xyz/)
-* [Atomic](https://atomicwallet.io/)
-* [Zillet](https://zillet.io/)
-* [Trust Wallet](https://trustwallet.com/)
-* [Magic](https://dev.zilliqa.com/docs/dev/dev-keys-magic)
+* [Zilpay](https://zilpay.xyz/) - Zilliqa wallet available as a browser extension that works similar to Metamask.
+* [Moonlet](https://moonlet.io/) - Non-custodial wallet for Andorid and iOS.
+* [Atomic](https://atomicwallet.io/) - Cryptocurrency wallet available for Android, iOS, Windows, MacOS.
+* [Zillet](https://zillet.io/) - Web based zilliqa wallet with support for multiple login methods.
+* [Trust Wallet](https://trustwallet.com/) - Binance owned non-custodial wallet for Android and iOS.
+* [Magic](https://dev.zilliqa.com/docs/dev/dev-keys-magic) - Web wallet that allows users to login via mobile number
 
 ## Fiat To Crypto Services
 
-* [XanPool](https://xanpool.com/)
+* [XanPool](https://xanpool.com/) 
 * [Moonpay](https://www.moonpay.com/)
 * [Transak](https://transak.com/)
+
+## ZRC Standards
 
 ## Developer Tools
 
